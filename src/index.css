@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap');
+
 :root {
   --text: #6b6375;
   --text-h: #08060d;
@@ -11,11 +13,11 @@
   --shadow:
     rgba(0, 0, 0, 0.1) 0 10px 15px -3px, rgba(0, 0, 0, 0.05) 0 4px 6px -2px;
 
-  --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
-  --heading: system-ui, 'Segoe UI', Roboto, sans-serif;
-  --mono: ui-monospace, Consolas, monospace;
+  --font-display: 'Rajdhani', Roboto, sans-serif;
+  --font-body: 'Space Grotesk', Roboto, sans-serif;
+  --font-mono: 'Space Mono'Consolas, monospace;
 
-  font: 18px/145% var(--sans);
+  font: 18px/145% var(--font-body);
   letter-spacing: 0.18px;
   color-scheme: light dark;
   color: var(--text);
@@ -67,8 +69,10 @@ body {
 }
 
 h1,
-h2 {
-  font-family: var(--heading);
+h2,
+h3,
+h4 {
+  font-family: var(--font-display);
   font-weight: 500;
   color: var(--text-h);
 }
@@ -96,8 +100,11 @@ p {
 }
 
 code,
-.counter {
-  font-family: var(--mono);
+.counter,
+.mono,
+.metadata,
+.nav-label {
+  font-family: var(--font-mono);
   display: inline-flex;
   border-radius: 4px;
   color: var(--text-h);
