@@ -1,19 +1,72 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# William Torman
 
-Currently, two official plugins are available:
+### Software Engineer • Backend & Web Development
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<a href="https://willtorman.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-willtorman.github.io-000000?style=for-the-badge" alt="Portfolio">
+</a>
+<a href="https://github.com/WillTorman">
+  <img src="https://img.shields.io/badge/GitHub-WillTorman-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
 
-## React Compiler
+</div>
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+---
 
-Note: This will impact Vite dev & build performances.
-You can also try [the experimental native React Compiler support in plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md#rust-react-compiler) by using `compiler: true` in the plugin options instead of using the Babel plugin.
+## About
 
-## Expanding the ESLint configuration
+I'm William Torman, a Software Engineering student at Brigham Young University–Idaho interested in building reliable software, web applications, and backend systems.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This repository contains the source code for my personal developer portfolio.
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,react,ts,nodejs,python,cpp,sql,git,vite" alt="Technology stack">
+
+</div>
+
+## Featured Projects
+
+| Project                        | Description                                         |
+| ------------------------------ | --------------------------------------------------- |
+| **Clockr**                     | Android application for tracking work hours and pay |
+| **Lynn's Library**             | C++ Library/Book tracking app                       |
+| **Thortech LLC**               | Web application for my personal tech business       |
+
+## Portfolio
+
+Visit my portfolio to learn more about me, my projects, skills, and experience:
+
+<div align="center">
+
+<a href="https://willtorman.github.io">
+  <strong>→ willtorman.github.io</strong>
+</a>
+
+</div>
+
+## Development
+
+This portfolio is built with:
+
+- React
+- Vite
+- JavaScript
+- GitHub Pages
+- GitHub Actions
+
+Every push to `main` automatically builds and deploys the site through GitHub Actions.
+
+---
+
+<div align="center">
+
+**William Torman**
+
+Software Engineering Student • Developer • Builder
+
+</div>
