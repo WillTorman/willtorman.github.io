@@ -1,0 +1,16 @@
+header {
+    display: flex;
+    background-color: black;
+}
+
+nav {
+    justify-self: flex-end;
+}
+
+img {
+    max-width: 100px;
+}
+
+@media (max-width:500) {
+
+}
