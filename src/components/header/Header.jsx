@@ -1,5 +1,5 @@
 import Logo from "/src/assets/WT-logo-green.png";
-import "./Header.css"
+import "./Header.css";
 
 function Header() {
   return (
@@ -16,10 +16,10 @@ function Header() {
             <a href="#home">Home</a>
           </li>
           <li>
-            <a href="#projects">Projects</a>
+            <a href="#Experience">Experience</a>
           </li>
           <li>
-            <a href="#Experience">Experience</a>
+            <a href="#projects">Projects</a>
           </li>
           <li>
             <a href="#About">About</a>
